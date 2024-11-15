@@ -3,7 +3,7 @@
 
 Sebuah aplikasi yang dapat digunakan untuk cek cuaca, yang ditujukan untuk menyelesaikan Tugas PBO ke-6.
 
-#### Source Code PenghitungKataFrame.java
+#### Source Code CekCuacaSederhanaFrame.java
 ```
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
