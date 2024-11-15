@@ -4,7 +4,7 @@
 Sebuah aplikasi yang dapat digunakan untuk cek cuaca, yang ditujukan untuk menyelesaikan Tugas PBO ke-6.
 
 #### Source Code CekCuacaSederhanaFrame.java
-```
+```java
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -623,6 +623,10 @@ public class CekCuacaSederhanaFrame extends javax.swing.JFrame {
 - Kota tersimpan di ComboBox
 - Export data dari tabel
 - Import data ke tabel
+## Screenshot
+![{8F1A7D67-2A52-417C-A17B-F41B77CB9DAB}](https://github.com/user-attachments/assets/8056f943-728e-4f9d-b5c4-cf17b32ad438)
+
+
 ## Referensi
 
  - [Modul PBO2 Tugas 6](https://drive.google.com/file/d/103_sn-_6Xi8iW7AdfUe02QrCW83vK1oL/view)
